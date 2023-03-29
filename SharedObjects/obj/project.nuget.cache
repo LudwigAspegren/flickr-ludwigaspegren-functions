@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ibG0EeL+iVtDylg3F9pSF1DYLn7hY3Bx1pvcsTPbimhMig+BvTjU05GZVHQoZQKaPTYbzAK6QiEb1Hi2FUsNSA==",
+  "success": true,
+  "projectFilePath": "/Users/ludwigaspegren/Hobby/coding projects/Ludwigaspegren-functions/SharedObjects/SharedObjects.csproj",
+  "expectedPackageFiles": [
+    "/Users/ludwigaspegren/.nuget/packages/microsoft.netcore.app.ref/5.0.0/microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "/Users/ludwigaspegren/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

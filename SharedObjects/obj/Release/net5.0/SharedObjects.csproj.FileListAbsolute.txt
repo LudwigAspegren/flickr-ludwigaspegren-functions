@@ -1,0 +1,12 @@
+/Users/ludwigaspegren/Library/Mobile Documents/com~apple~CloudDocs/Coding/ludwigaspegren.se/SharedObjects/bin/Release/net5.0/SharedObjects.deps.json
+/Users/ludwigaspegren/Library/Mobile Documents/com~apple~CloudDocs/Coding/ludwigaspegren.se/SharedObjects/bin/Release/net5.0/SharedObjects.dll
+/Users/ludwigaspegren/Library/Mobile Documents/com~apple~CloudDocs/Coding/ludwigaspegren.se/SharedObjects/bin/Release/net5.0/ref/SharedObjects.dll
+/Users/ludwigaspegren/Library/Mobile Documents/com~apple~CloudDocs/Coding/ludwigaspegren.se/SharedObjects/bin/Release/net5.0/SharedObjects.pdb
+/Users/ludwigaspegren/Library/Mobile Documents/com~apple~CloudDocs/Coding/ludwigaspegren.se/SharedObjects/obj/Release/net5.0/SharedObjects.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ludwigaspegren/Library/Mobile Documents/com~apple~CloudDocs/Coding/ludwigaspegren.se/SharedObjects/obj/Release/net5.0/SharedObjects.AssemblyInfoInputs.cache
+/Users/ludwigaspegren/Library/Mobile Documents/com~apple~CloudDocs/Coding/ludwigaspegren.se/SharedObjects/obj/Release/net5.0/SharedObjects.AssemblyInfo.cs
+/Users/ludwigaspegren/Library/Mobile Documents/com~apple~CloudDocs/Coding/ludwigaspegren.se/SharedObjects/obj/Release/net5.0/SharedObjects.csproj.CoreCompileInputs.cache
+/Users/ludwigaspegren/Library/Mobile Documents/com~apple~CloudDocs/Coding/ludwigaspegren.se/SharedObjects/obj/Release/net5.0/SharedObjects.dll
+/Users/ludwigaspegren/Library/Mobile Documents/com~apple~CloudDocs/Coding/ludwigaspegren.se/SharedObjects/obj/Release/net5.0/ref/SharedObjects.dll
+/Users/ludwigaspegren/Library/Mobile Documents/com~apple~CloudDocs/Coding/ludwigaspegren.se/SharedObjects/obj/Release/net5.0/SharedObjects.pdb
+/Users/ludwigaspegren/Library/Mobile Documents/com~apple~CloudDocs/Coding/ludwigaspegren.se/SharedObjects/obj/Release/net5.0/SharedObjects.csproj.AssemblyReference.cache
